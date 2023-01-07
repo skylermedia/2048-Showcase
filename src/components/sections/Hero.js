@@ -72,7 +72,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://2048.skyler.media/download">
                     Download
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="https://skyler.media">
                     See Other Projects
                     </Button>
                 </ButtonGroup>
