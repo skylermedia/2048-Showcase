@@ -1,5 +1,6 @@
 import React from "react";
-import "./App.scss";
+import logo from "./logo.svg";
+import "./App.css";
 import Main from "./containers/Main";
 
 function App() {
