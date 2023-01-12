@@ -79,7 +79,6 @@ const Hero = ({
               </div>
             </div>
           </div>
-          </div>
           <Modal
             id="video-modal"
             show={videoModalActive}
