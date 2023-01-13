@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://2048.skyler.media/download">
+                  <Button tag="a" color="primary" wideMobile href="https://2048.skyler.media/download-ios">
                     Download
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://skyler.media">
