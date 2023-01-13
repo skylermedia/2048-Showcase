@@ -43,6 +43,11 @@ const FeaturesTiles = ({
     pushLeft && 'push-left'
   );
 
+  const sectionHeader = {
+    title: '',
+    paragraph: ''
+  };
+
   return (
     <section
       {...props}
