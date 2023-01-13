@@ -19,16 +19,13 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="#0">Contact</Link>
+          <Link to="https://form.typeform.com/to/yyo48bVj">Contact</Link>
         </li>
         <li>
-          <Link to="#0">About us</Link>
+          <Link to="https://3096.skyler.media/privacy-policy">Privacy Policy</Link>
         </li>
         <li>
-          <Link to="#0">FAQ's</Link>
-        </li>
-        <li>
-          <Link to="#0">Support</Link>
+          <Link to="https://3096.skyler.media/terms-of-service">Terms of Service</Link>
         </li>
       </ul>
     </nav>
