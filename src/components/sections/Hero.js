@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                A feature-rich game.
+                3x The Fun!
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -73,7 +73,7 @@ const Hero = ({
                     Download
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://skyler.media">
-                    See Other Projects
+                    See My Other Projects
                     </Button>
                 </ButtonGroup>
               </div>
