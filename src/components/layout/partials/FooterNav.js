@@ -22,10 +22,10 @@ const FooterNav = ({
           <Link to="https://form.typeform.com/to/yyo48bVj">Contact</Link>
         </li>
         <li>
-          <Link to="https://3096.skyler.media/privacy-policy">Privacy Policy</Link>
+          <Link to="https://privacy.3096.skyler.media">Privacy Policy</Link>
         </li>
         <li>
-          <Link to="https://3096.skyler.media/terms-of-service">Terms of Service</Link>
+          <Link to="https://tos.3096.skyler.media">Terms of Service</Link>
         </li>
       </ul>
     </nav>

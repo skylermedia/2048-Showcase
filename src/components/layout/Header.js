@@ -117,9 +117,9 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Download</Link>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Privacy Policy</Link>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Terms of Service</Link>
+                        <Link to="privacy.3096.skyler.media" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Privacy Policy</Link>
+                        <Link to="tos.3096.skyler.media" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Terms of Service</Link>
+                        <Link to="3096.skyler.media/download" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Download</Link>
                       </li>
                     </ul>}
                 </div>
