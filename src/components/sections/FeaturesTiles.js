@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Multiple Grid Sizes
+                  Customizable Grid Sizes
                     </h4>
                   <p className="m-0 text-sm">
                     Multiple grid sizes to choose from to ensure you are able to play for as long or a short as you want to.
