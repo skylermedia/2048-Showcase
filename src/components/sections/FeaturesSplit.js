@@ -200,10 +200,10 @@ const FeaturesSplit = ({
                 Advanced Features
                   </div>
                 <h3 className="mt-0 mb-12">
-                iPhone, iPad, and Mac Support
+                Support for iPhone and iPad
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  MacOS and Android support coming soon.
                   </p>
               </div>
               <div className={
