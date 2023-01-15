@@ -24,9 +24,6 @@ const FooterNav = ({
         <li>
           <Link to="https://privacy.3096.skyler.media">Privacy Policy</Link>
         </li>
-        <li>
-          <Link to="https://tos.3096.skyler.media">Terms of Service</Link>
-        </li>
       </ul>
     </nav>
   );
