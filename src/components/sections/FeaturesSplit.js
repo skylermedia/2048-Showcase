@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                   Advanced Features
                   </div>
                 <h3 className="mt-0 mb-12">
-                Customizable Grid Sizes
+                Multiple Grid Sizes
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -85,8 +85,8 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/features-split-image-01.png')}
                   alt="Features split 01"
-                  width={528}
-                  height={396} />
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
@@ -96,7 +96,7 @@ const FeaturesSplit = ({
                 Advanced Features
                   </div>
                 <h3 className="mt-0 mb-12">
-                Haptics
+                Sound Effects and Haptics
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -111,8 +111,8 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/features-split-image-02.png')}
                   alt="Features split 02"
-                  width={528}
-                  height={396} />
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
@@ -122,7 +122,7 @@ const FeaturesSplit = ({
                 Advanced Features
                   </div>
                 <h3 className="mt-0 mb-12">
-                Sound Effects
+                Responsive Dark Mode
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -137,8 +137,8 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/features-split-image-03.png')}
                   alt="Features split 03"
-                  width={528}
-                  height={396} />
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
@@ -161,10 +161,10 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
-                  width={528}
-                  height={396} />
+                  src={require('./../../assets/images/features-split-image-02.png')}
+                  alt="Features split 04"
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
@@ -187,10 +187,10 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
-                  width={528}
-                  height={396} />
+                  src={require('./../../assets/images/features-split-image-05.png')}
+                  alt="Features split 05"
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
@@ -213,10 +213,10 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
-                  width={528}
-                  height={396} />
+                  src={require('./../../assets/images/features-split-image-06.png')}
+                  alt="Features split 06"
+                  width={1242}
+                  height={2208} />
               </div>
             </div>
 
