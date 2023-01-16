@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                 Multiple Grid Sizes
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
                   </p>
               </div>
               <div className={
@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                 Sound Effects and Haptics
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
                   </p>
               </div>
               <div className={
@@ -125,7 +125,7 @@ const FeaturesSplit = ({
                 Responsive Dark Mode
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
                   </p>
               </div>
               <div className={
@@ -151,7 +151,7 @@ const FeaturesSplit = ({
                 Advanced Settings
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
                   </p>
               </div>
               <div className={
@@ -177,7 +177,7 @@ const FeaturesSplit = ({
                 Detailed Design
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
                   </p>
               </div>
               <div className={
